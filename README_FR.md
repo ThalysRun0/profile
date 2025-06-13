@@ -1,9 +1,3 @@
-Renaud BORG  
-122 avenue de Paris  
-94800 Villejuif  
-06.13.82.37.54  
-renaud.borg@gmail.com  
-
 # Data - Engineer - Architect
 
 # Langues
