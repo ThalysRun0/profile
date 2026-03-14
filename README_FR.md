@@ -1,8 +1,9 @@
-# Data Architect | Data Engineer | Big Data Expert
+# Data Architect | Data Engineer | Big Data Senior
 
-Data Architecte / Data Engineer avec forte expérience en plateformes Big Data, DataLake, ingestion et architecture distribuée.  
+25+ ans d'expérience en informatique — Architecte de données / Ingénieur de données avec une solide expérience dans le Big Data, DataLake,  
+Connaissance approffondies sur de nombreux formats de fichiers, ingestion sur les plateformes d'architecture distribuée.  
 Expertise sur Hadoop / Spark / Python / R / Kafka / ElasticSeach / Cloudera.  
-Domaines métiers banques / transport / assurance / secteur public.
+Secteurs bancaire / assurance / transport / secteur public.
 
 ---
 
@@ -10,7 +11,7 @@ Domaines métiers banques / transport / assurance / secteur public.
 
 ![Python](https://img.shields.io/badge/python-<3.14-blue?logo=python&logoColor=white)
 ![Spark](https://img.shields.io/badge/spark-3.5.3|4.0.1-blue?logo=apachespark&logoColor=white)
-![R](https://img.shields.io/badge//R-studio-blue?logo=r)
+![R](https://img.shields.io/badge//R-studio-blue?logo=r&logoColor=white)
 ![VBA](https://img.shields.io/badge/vba-office-blue)
 ![git](https://img.shields.io/badge/git-Lab-green?logo=git&logoColor=white)  
 ![Kafka](https://img.shields.io/badge/Kafka-Streaming-yellow?logo=apachekafka&logoColor=white)
@@ -24,70 +25,88 @@ Domaines métiers banques / transport / assurance / secteur public.
 
 ## 🧠 Soft Skills
 
-- Architecture & vision système
-- Expertise technique / résolution complexe
-- Référent technique / mentoring
+- Architecture et conception système
+- TechLead / coordination / mentoring
+- Résolution de problèmes complexes
+- Conception de plateformes Data
 - Communication métiers / MOA / Data / Dev
-- Documentation / vulgarisation
-- Agile / Scrum / Sprint
-- Innovation / R&D / prototypage
-- Conduite du changement
+- Agile / Scrum / CI/CD
+- Documentation / formation / transfert de compétence
+- R&D / prototypage / innovation
 
 ---
 
 ## 🛠 Hard Skills
 
-| Domain | Technologies |
-|--------|-------------|
-| Languages | Python, R, Scala, SQL, Shell, PHP, Javascript, VBA, VB6, C# |
-| Big Data | Hadoop, Spark, Hive, Kafka, ElasticSearch, Cloudera, Hortonworks |
-| Data / Geo | Sedona, GeoPandas, PySpark, Indexima |
-| Data Engineering | Talend, Dataiku, Sqoop, API REST, Scraping, Pipelines |
-| Data Platform | DataLake, Metadata, Data Quality, Governance |
-| Dev / Tools | Git, Bitbucket, IntelliJ, VSCode, Docker, Linux |
-| DB / Graph | Neo4J, MongoDB, Elasticsearch, GraphQL |
-| Web | HTML, CSS, JQuery, Symfony |
-| Other | Unity3D, Blender, SDL |
+| Domaine | Technologies |
+|---------|-------------|
+| Langages | Python, Scala, R, SQL, Shell, Java, PHP, Javascript, VBA, VB6 |
+| Big Data | Hadoop, Spark, Hive, Yarn, Kafka, Cloudera, Hortonworks |
+| Bases de données | Postgres, Oracle, SQLServer, MongoDB, Neo4J, Elastic, HBase |
+| Data Engineering | ETL, ELT, Pipelines, DataLake, Metadata, Data Quality |
+| Outils | Git, Jenkins, Ansible, Docker, Jira, Nexus |
+| Analytics | Spark, R, Shiny, Python, ML pipelines |
+| Formats / API | JSON, XML, CSV, Avro, Parquet, ORC, XBRL |
+| IDE | VSCode, IntelliJ, PyCharm, Eclipse |
+| Systèmes | Linux, Cloud, Distribué, Multi-thread |
 
 ---
 
 ## 💼 Experience
 
-### Data Architect / Data Engineer — Umanis — 2020 → Present
-Plateforme OpenData nationale avec enrichissement géographique.  
-Pipelines Python / Spark / Kafka sur cluster Hadoop Cloudera.  
-Architecture de mise à disposition de données analytiques.
+### DGFIP — TechLead / Data Engineer — 2025 → Present
+Migration massive SAS → Spark / Parquet dans DataLake Etat.  
+Conception pipelines Big Data, ingestion multi-format, bonnes pratiques data.  
+Coordination équipe, formation Python / Spark, mise en place CI/CD.
 
-### Data Architect Big Data — Banque de France — 2018 → 2020
-DataLake réglementaire bancaire Hadoop.  
-Migration SAS → R, support ACPR / Tracfin.  
-Architecture, conception, documentation, accompagnement.
+### Société Générale — TechLead Big Data — 2024 → 2025
+Amélioration ETL transactions bancaires TMS réglementaire.  
+Design dataflow, ingestion générique Scala/Spark, pipelines scalables.  
+CI/CD, coordination équipe internationale.
 
-### Big Data Architect — SNCF — 2015 → 2017
-Conception DataLake matériel roulant.  
-Pipelines multi-sources, gouvernance, metadata.  
-Stack Hadoop / Spark / Neo4J / Elastic / Talend / Docker.
+### Banque de France — Senior Data Engineer — 2023 → 2024
+Maintenance pipelines Big Data TMS.  
+Gestion sources, CI/CD, monitoring modèles ML.  
+Spark / Hadoop / Shell / Jenkins.
 
-### Software Engineer / Data Tools — SQLI — 2006 → 2014
-Outils migration / contrôle / reporting data.  
-Industrialisation ETL, optimisation performances.  
-Missions SNCF, Natixis, Pacifica, Sanofi.
+### Caisse des Dépôts — Senior Data Engineer — 2020 → 2022
+Plateforme OpenData territoriale Big Data.  
+Pipelines Python/Spark, ingestion API, géodata IGN.  
+Architecture ETL, intégrité data, CI/CD.
 
-### Developer — Freelance — 2003 → 2005
-Reporting Oracle, outils internes, automatisation.  
-Applications web métier, formation utilisateurs.
+### Banque de France — Data Engineer — 2018 → 2020
+Migration SAS → R sur DataLake Hadoop.  
+Support ACPR, architecture, formation utilisateurs.  
+Conception outils analyse réglementaire.
 
-### Developer (alternance) — Artemis — 2000 → 2002
-Modules logiciels gestion de projet.  
-Analyse, dev, packaging, migration, support.
+### SNCF — Big Data Engineer — 2015 → 2017
+DataLake matériel roulant.  
+Ingestion multi-sources, dashboards, catalog data.  
+Spark, Elastic, Dataiku, Hadoop.
+
+### SNCF — Data Engineer — 2013 → 2014
+Industrialisation migration data.  
+Talend ETL, contrôles métiers, indicateurs maintenance.  
+Automatisation tests et reprises.
+
+### SQLI / Clients — 2006 → 2014
+Développement outils data / migration / reporting.  
+Natixis, Pacifica, Sanofi, TraceOne, SNCF.  
+Optimisation performances, ETL, automation.
+
+### Freelance — 2003 → 2005
+Applications Oracle / reporting / web tools.  
+Automatisation métier, formation utilisateurs.
+
+### Artemis — Developer — 2000 → 2002
+Développement logiciel gestion de projet.  
+Analyse, dev, packaging, support.
 
 ---
 
 ## 🎓 Formation
 
-BTS Informatique de Gestion – Alternance
-
-Auto-formation continue :
+Auto-formation :
 Big Data • Hadoop • Spark • Python • R • Architecture • ETL
 
 Formations :
@@ -97,8 +116,9 @@ Symfony • HTML5 • QualityCenter • XML/XSLT • Shell • PHP
 
 ## 🌍 Langues
 
-🇬🇧 English — professional / technical  
-🇯🇵 Japanese — basic
+🇬🇧 Anglais — professionnel / technique 
+🇯🇵 Japonais — notions  
+🇪🇸 Espagnol — notions
 
 ---
 
@@ -106,12 +126,12 @@ Symfony • HTML5 • QualityCenter • XML/XSLT • Shell • PHP
 
 - Hadoop cluster Raspberry Pi (5 nodes)
 - OpenData collectors (Weather / SNCF / Twitter / Gov API)
-- Network / social capture
-- SDL / Linux / Game of Life
+- Écriture / théâtre / animation technique
+- SDL / Linux / Game of Life (Conway)
+- Excel / Direct3D games
+- Capture réseaux / data
 - Unity3D / C#
 - Blender 3D
-- Excel / Direct3D games
-- Writing / theatre / tech animation
 
 ---
 
