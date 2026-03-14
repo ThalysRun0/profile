@@ -116,7 +116,7 @@ Symfony • HTML5 • QualityCenter • XML/XSLT • Shell • PHP
 
 ## 🌍 Languages
 
-🇬🇧 English — professional  
+🇬🇧 English — professional / technical  
 🇯🇵 Japanese — basic  
 🇪🇸 Spanish — basic
 
