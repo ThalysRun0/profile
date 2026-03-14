@@ -1,4 +1,4 @@
-# Data Architect | Data Engineer | Big Data Senior
+# Data Architect | Data Engineer | Big Data Senior ([🇫🇷](README_FR.md) | [🇬🇧](README_EN.md))
 
 25+ years of IT experience — Data Architect / Data Engineer with a strong background in Big Data, DataLake,  
 In-depth knowledge of many file formats, ingestion on distributed architecture platforms.  
@@ -9,8 +9,10 @@ Banking/insurance/transportation/public sector sectors.
 
 ## 🏷 Badges
 
-![Python](https://img.shields.io/badge/python-<3.14-blue?logo=python&logoColor=white)
 ![Spark](https://img.shields.io/badge/spark-3.5.3|4.0.1-blue?logo=apachespark&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-lambda-blue?logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/python-<3.14-blue?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-gnu-blue?logo=gnubash&logoColor=white)
 ![R](https://img.shields.io/badge//R-studio-blue?logo=r&logoColor=white)
 ![VBA](https://img.shields.io/badge/vba-office-blue)
 ![git](https://img.shields.io/badge/git-Lab-green?logo=git&logoColor=white)  
@@ -20,6 +22,7 @@ Banking/insurance/transportation/public sector sectors.
 ![Hadoop](https://img.shields.io/badge/hadoop-Cluster-yellow?logo=apachehadoop&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-Container-red?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-System-red?logo=linux&logoColor=white)
+
 
 ---
 

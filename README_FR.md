@@ -1,4 +1,4 @@
-# Data Architect | Data Engineer | Big Data Senior
+# Data Architect | Data Engineer | Big Data Senior ([🇫🇷](README_FR.md) | [🇬🇧](README_EN.md))
 
 25+ ans d'expérience en informatique — Architecte de données / Ingénieur de données avec une solide expérience dans le Big Data, DataLake,  
 Connaissance approffondies sur de nombreux formats de fichiers, ingestion sur les plateformes d'architecture distribuée.  
@@ -9,8 +9,10 @@ Secteurs bancaire / assurance / transport / secteur public.
 
 ## 🏷 Badges
 
-![Python](https://img.shields.io/badge/python-<3.14-blue?logo=python&logoColor=white)
 ![Spark](https://img.shields.io/badge/spark-3.5.3|4.0.1-blue?logo=apachespark&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-lambda-blue?logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/python-<3.14-blue?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-gnu-blue?logo=gnubash&logoColor=white)
 ![R](https://img.shields.io/badge//R-studio-blue?logo=r&logoColor=white)
 ![VBA](https://img.shields.io/badge/vba-office-blue)
 ![git](https://img.shields.io/badge/git-Lab-green?logo=git&logoColor=white)  
