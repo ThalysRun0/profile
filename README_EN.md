@@ -1,6 +1,6 @@
-<style>
+<!-- <style>
 table{ width:100%; }
-</style>
+</style> -->
 
 # Data Architect | Data Engineer | Big Data Senior ([🇫🇷](README_FR.md) | [🇬🇧](README_EN.md))
 
