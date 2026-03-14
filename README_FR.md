@@ -9,13 +9,13 @@ Secteurs bancaire / assurance / transport / secteur public.
 
 ## 🏷 Badges
 
-![Spark](https://img.shields.io/badge/spark-3.5.3|4.0.1-blue?logo=apachespark&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-lambda-blue?logo=scala&logoColor=white)
 ![Python](https://img.shields.io/badge/python-<3.14-blue?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-gnu-blue?logo=gnubash&logoColor=white)
 ![R](https://img.shields.io/badge//R-studio-blue?logo=r&logoColor=white)
 ![VBA](https://img.shields.io/badge/vba-office-blue)
 ![git](https://img.shields.io/badge/git-Lab-green?logo=git&logoColor=white)  
+![Spark](https://img.shields.io/badge/spark-3.5.3|4.0.1-yellow?logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-Streaming-yellow?logo=apachekafka&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-Search-yellow?logo=elastic&logoColor=white)
 ![Cloudera](https://img.shields.io/badge/cloudera-HDP-yellow?logo=cloudera&logoColor=white)
