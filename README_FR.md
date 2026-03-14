@@ -125,7 +125,7 @@ Symfony • HTML5 • QualityCenter • XML/XSLT • Shell • PHP
 ## 🧪 Projet Personels
 
 - Hadoop cluster Raspberry Pi (5 nodes)
-- OpenData collectors (Weather / SNCF / Twitter / Gov API)
+- OpenData collectors (Weather / Twitter / Gov API)
 - Écriture / théâtre / animation technique
 - SDL / Linux / Game of Life (Conway)
 - Excel / Direct3D games
