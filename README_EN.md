@@ -1,3 +1,7 @@
+<style>
+table{ width:100%; }
+</style>
+
 # Data Architect | Data Engineer | Big Data Senior ([🇫🇷](README_FR.md) | [🇬🇧](README_EN.md))
 
 25+ years of IT experience — Data Architect / Data Engineer with a strong background in Big Data, DataLake,  
@@ -42,7 +46,7 @@ Banking/insurance/transportation/public sector sectors.
 ## 🛠 Hard Skills
 
 | Domain | Technologies |
-|---------|-------------|
+| :----- | -----------: |
 | Langages | Python, Scala, R, SQL, Shell, Java, PHP, Javascript, VBA, VB6 |
 | Big Data | Hadoop, Spark, Hive, Yarn, Kafka, Cloudera, Hortonworks |
 | Bases de données | Postgres, Oracle, SQLServer, MongoDB, Neo4J, Elastic, HBase |
